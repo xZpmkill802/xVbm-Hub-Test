@@ -25,28 +25,24 @@ local correctKeys = {
     ["Photnfiihbdjrgjindjrijgv"] = {hwid = nil, expires = os.time() + 86400},
     ["segdrDief834tbh9dijrigdk"] = {hwid = nil, expires = os.time() + 86400},
     ["wafQdwefebegergdrgdrgbdf"] = {hwid = nil, expires = os.time() + 86400},
-    ["Awd9tbdrtbidirgidrgbxfka"] = {hwid = nil, expires = os.time() + 86400},
-    ["Pkfebusifuebvsjzfuuvjdrg"] = {hwid = nil, expires = os.time() + 86400},
-    ["Kfiwseujvsbhdbbneujfvugb"] = {hwid = nil, expires = os.time() + 86400},
-    ["OsjeuvgubvHsuIUuejf2JUje"] = {hwid = nil, expires = os.time() + 86400},
-    ["bntohgighutbdjrgjvdjbbnd"] = {hwid = nil, expires = os.time() + 86400}
+    ["Awd9tbdrtbidirgidrgbxfka"] = {hwid = nil, expires = os.time() + 86400}
 }
 
 local correctMaps = {
     ["18668065416"] = {hwid = nil, expires = nil},
     ["34671275"] = {hwid = nil, expires = os.time() + 86400},
-    ["2534191426"] = {hwid = nil, expires = os.time() + 86400}
-    ["2658724324"] = {hwid = nil, expires = os.time() + 86400}
-    ["0935233543"] = {hwid = nil, expires = os.time() + 86400}
-    ["1938576496"] = {hwid = nil, expires = os.time() + 86400}
-    ["4903875668"] = {hwid = nil, expires = os.time() + 86400}
-    ["1903857664"] = {hwid = nil, expires = os.time() + 86400}
-    ["0837562638"] = {hwid = nil, expires = os.time() + 86400}
-    ["0376572783"] = {hwid = nil, expires = os.time() + 86400}
-    ["7265968363"] = {hwid = nil, expires = os.time() + 86400}
-    ["3857263598"] = {hwid = nil, expires = os.time() + 86400}
-    ["4232564313"] = {hwid = nil, expires = os.time() + 86400}
-    ["0274682385"] = {hwid = nil, expires = os.time() + 86400}
+    ["2534191426"] = {hwid = nil, expires = os.time() + 86400},
+    ["2658724324"] = {hwid = nil, expires = os.time() + 86400},
+    ["0935233543"] = {hwid = nil, expires = os.time() + 86400},
+    ["1938576496"] = {hwid = nil, expires = os.time() + 86400},
+    ["4903875668"] = {hwid = nil, expires = os.time() + 86400},
+    ["1903857664"] = {hwid = nil, expires = os.time() + 86400},
+    ["0837562638"] = {hwid = nil, expires = os.time() + 86400},
+    ["0376572783"] = {hwid = nil, expires = os.time() + 86400},
+    ["7265968363"] = {hwid = nil, expires = os.time() + 86400},
+    ["3857263598"] = {hwid = nil, expires = os.time() + 86400},
+    ["4232564313"] = {hwid = nil, expires = os.time() + 86400},
+    ["0274682385"] = {hwid = nil, expires = os.time() + 86400},
     ["0496726482"] = {hwid = nil, expires = os.time() + 86400}
 }
 
