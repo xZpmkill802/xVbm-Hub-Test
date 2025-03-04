@@ -84,7 +84,7 @@ local function CheckKeyAndMap()
 
     print("✅ Key และ Map ถูกต้อง! เริ่มต้นทำงาน...")
 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/xZpmkill802/keyTest/refs/heads/main/Test.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xZpmkill802/xVbm-Hub-Test/refs/heads/main/Script.lua"))()
 end
 
 CheckKeyAndMap()
